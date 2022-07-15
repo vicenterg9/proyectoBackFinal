@@ -5,7 +5,7 @@ const routes = Router();
 
 routes.use("/films",filmsRoutes );
 
-
+console.log("asdas")
 
 
 export default routes;
